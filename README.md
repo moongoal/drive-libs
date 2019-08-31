@@ -2,6 +2,12 @@
 
 Package of libraries for working with Euro Truck Simulator 2.
 
+Although the libraries are able to decrypt and decompress Sii saved game files, you'll still need to set
+
+    uset g_save_format "2"
+
+in your `Documents/Euro Truck Simulator 2/config.cfg` file in order for them to able to parse the content of the saved files.
+
 
 ## Compatibility and usage with American Truck Simulator
 
