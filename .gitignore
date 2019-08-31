@@ -1,0 +1,6 @@
+.vs/
+packages/
+SiiFile.Tests/
+TestResults/
+*/bin/
+*/obj/
